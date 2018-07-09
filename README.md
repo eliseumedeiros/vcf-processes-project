@@ -23,4 +23,11 @@ Foi desenvolvido um software Windows® que facilita a análise de variantes gen�
 (todos os arquivos precisam estar no mesmo diretório)
 https://drive.google.com/drive/folders/12GEZz13KasGg6P6TCgYDNGuJXpJLk71R?usp=sharing
 
+### Colaboradores
+Eliseu Jayro de Souza Medeiros,  eliseujayro@gmail.com 
+Jorge Estefano Santana de Souza, jorge@imd.ufrn.br
+
+IMD - Instituto Metropóle Digital - Lagoa Nova, Natal - RN
+Universidade Federal do Rio Grande do Norte - UFRN.
+
  
